@@ -10,8 +10,8 @@
 
 <p>PGB members:</p> 
 
-<p><iframe style="border-style: none;" width="700" height="400" src="http://docs.google.com/spreadsheets/d/1dGzWAnwtO8s455K4vArdIrfEh1bxsbl5BD937WUHSjs/edit#gid=463834327"&widget=false&headers=false&chrome=false&single=false&gridlines=false&range=A1%3AC10">
-  </iframe></p>
+<p><iframe style="border-style: none;" width="700" height="400" src="http://docs.google.com/spreadsheets/d/1dGzWAnwtO8s455K4vArdIrfEh1bxsbl5BD937WUHSjs/edit#gid=463834327"&widget=false&headers=false&chrome=false&single=false&gridlines=false&range=A1%3AC10></iframe>
+</p>
 
 <!-- 
 * Daniel Burnett, Enterprise Ethereum Alliance ([@burnburn](https://github.com/burnburn))
